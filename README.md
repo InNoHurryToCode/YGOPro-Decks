@@ -1,5 +1,5 @@
-# YGOProES Decks
-Official Yu-Gi-Oh! starter and structure decks recreated in YGOProES 1.034.9.
+# YGOPro Decks
+Official Yu-Gi-Oh! starter and structure decks recreated in YGOProES 1.034.9 (should work with any YGOPRO variant).
 
 ## Information
 All cards are sorted by card number.
